@@ -29,7 +29,7 @@ The code executes the following procedures:
 The KNN model achieved an accuracy of 0.888, precision of 0.865, recall of 0.819, and an F1 score of 0.842. 
 The Decision Tree model achieved an accuracy of 0.912, precision of 0.903, recall of 0.825, and an F1 score of 0.862.
 
-# Visualizations
+# Data Visualizations
 The code provides a PCA-based data visualization.
 
 # Acknowledgements
