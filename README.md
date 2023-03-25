@@ -30,7 +30,7 @@ The KNN model achieved an accuracy of 0.888, precision of 0.865, recall of 0.819
 The Decision Tree model achieved an accuracy of 0.912, precision of 0.903, recall of 0.825, and an F1 score of 0.862.
 
 ## Data Visualizations
-The code provides a PCA-based data visualization.
+The code provides confusion matrices based data visualization.
 
 ## Acknowledgements
 Tharani Dissanayake is the author of this code. The UCI Machine Learning Repository provided the Spambase Dataset.
