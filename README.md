@@ -17,13 +17,13 @@ The Spambase Dataset from the UCI Machine Learning Repository is the dataset uti
 # Steps
 The code executes the following procedures:
 
-Bring up the Spambase Dataset.
-Create training and test sets from the data.
-Data normalization.
-Create a KNN model using the training data.
-Use the training set to train a decision tree model.
-Compare the KNN and Decision Tree models' performance.
-Use PCA to visualize the outcomes.
+ - Bring up the Spambase Dataset.
+ - Create training and test sets from the data.
+ - Data normalization.
+ - Create a KNN model using the training data.
+ - Use the training set to train a decision tree model.
+ - Compare the KNN and Decision Tree models' performance.
+ - Use PCA to visualize the outcomes.
 
 # Performance
 The KNN model achieved an accuracy of 0.888, precision of 0.865, recall of 0.819, and an F1 score of 0.842. 
