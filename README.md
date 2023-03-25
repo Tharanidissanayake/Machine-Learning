@@ -5,11 +5,11 @@ KNN and Decision Trees are used in this code to classify emails as spam or not-s
 # Installation
 The following packages and Python 3 are required to run this code.
 
-sklearn 
-matplotlib 
-seaborn 
-pandas 
-numpy
+ - sklearn 
+ - matplotlib 
+ - seaborn 
+ - pandas 
+ - numpy
 
 # Dataset
 The Spambase Dataset from the UCI Machine Learning Repository is the dataset utilized in this code. 4,601 emails in this dataset have a total of 57 features.
